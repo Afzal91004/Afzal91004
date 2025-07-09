@@ -8,7 +8,7 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on [**Stitch & Style**](https://github.com/KromaApps/Stitch-N-Style)
+- 🔭 I’m currently working on [**KromaApps**](https://github.com/KromaApps)
 
 - 🌱 I’m currently learning **Backend Development**
 
